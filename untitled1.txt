@@ -1,0 +1,588 @@
+
+
+
+
+--------
+
+
+allowMenuUrlEdit: true
+▶
+attributes:
+▶
+groups: [] 5 items
+▶
+0:
+count: 1
+▶
+items: [] 1 item
+▶
+0:
+displayName: "Price"
+displayValue: "$"
+priceTier: 1
+name: "Price"
+summary: "$"
+type: "price"
+▶
+1:
+count: 5
+▶
+items: [] 1 item
+▶
+0:
+displayName: "Credit Cards"
+displayValue: "Yes"
+name: "Credit Cards"
+summary: "Credit Cards"
+type: "payments"
+▶
+2:
+count: 1
+▶
+items: [] 1 item
+▶
+0:
+displayName: "Outdoor Seating"
+displayValue: "No"
+name: "Outdoor Seating"
+type: "outdoorSeating"
+▶
+3:
+count: 1
+▶
+items: [] 1 item
+▶
+0:
+displayName: "Wi-Fi"
+displayValue: "Yes"
+name: "Wi-Fi"
+summary: "Wi-Fi"
+type: "wifi"
+▶
+4:
+count: 8
+▶
+items: [] 1 item
+▶
+0:
+name: "Menus"
+summary: "Breakfast"
+type: "serves"
+▶
+beenHere:
+count: 0
+lastCheckinExpiredAt: 0
+marked: false
+unconfirmedCount: 0
+▶
+bestPhoto:
+createdAt: 1467335211
+height: 1080
+id: "5775c22b498e0a219f71654c"
+prefix: "https://fastly.4sqi.net/img/general/"
+▶
+source:
+name: "Instagram"
+url: "http://instagram.com"
+suffix: "/511900_hzbkEAa5OquuIlyzd_ygoxL56K2d_QgXNIP2VZQAH1w.jpg"
+visibility: "public"
+width: 1080
+canonicalUrl: "https://foursquare.com/v/sorry-coffee-co/56046c7d498e66c67551d0e3"
+▶
+categories: [] 1 item
+▶
+0:
+▶
+icon:
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_"
+suffix: ".png"
+id: "4bf58dd8d48988d1e0931735"
+name: "Coffee Shop"
+pluralName: "Coffee Shops"
+primary: true
+shortName: "Coffee Shop"
+▶
+colors:
+algoVersion: 3
+▶
+highlightColor:
+photoId: "5775c22b498e0a219f71654c"
+value: -14671832
+▶
+highlightTextColor:
+photoId: "5775c22b498e0a219f71654c"
+value: -1
+▶
+contact:
+instagram: "sorrycoffeeco"
+createdAt: 1443130493
+▶
+defaultHours:
+dayData: [] 0 items
+isLocalHoliday: false
+isOpen: true
+▶
+richStatus:
+entities: [] 0 items
+text: "Open until 8:00 PM"
+status: "Open until 8:00 PM"
+▶
+timeframes: [] 3 items
+▶
+0:
+days: "Mon–Fri"
+includesToday: true
+▶
+open: [] 1 item
+▶
+0:
+renderedTime: "7:30 AM–8:00 PM"
+segments: [] 0 items
+▶
+1:
+days: "Sat"
+▶
+open: [] 1 item
+▶
+0:
+renderedTime: "8:00 AM–8:00 PM"
+segments: [] 0 items
+▶
+2:
+days: "Sun"
+▶
+open: [] 1 item
+▶
+0:
+renderedTime: "9:00 AM–6:00 PM"
+segments: [] 0 items
+dislike: false
+▶
+hereNow:
+count: 0
+groups: [] 0 items
+summary: "Nobody here"
+▶
+hierarchy: [] 1 item
+▶
+0:
+canonicalUrl: "https://foursquare.com/v/kit-and-ace/56195d92498e86b30bef7b4b"
+id: "56195d92498e86b30bef7b4b"
+lang: "en"
+name: "Kit and Ace"
+▶
+hours:
+dayData: [] 0 items
+isLocalHoliday: false
+isOpen: true
+▶
+richStatus:
+entities: [] 0 items
+text: "Open until 8:00 PM"
+status: "Open until 8:00 PM"
+▶
+timeframes: [] 3 items
+▶
+0:
+days: "Mon–Fri"
+includesToday: true
+▶
+open: [] 1 item
+▶
+0:
+renderedTime: "7:30 AM–8:00 PM"
+segments: [] 0 items
+▶
+1:
+days: "Sat"
+▶
+open: [] 1 item
+▶
+0:
+renderedTime: "8:00 AM–8:00 PM"
+segments: [] 0 items
+▶
+2:
+days: "Sun"
+▶
+open: [] 1 item
+▶
+0:
+renderedTime: "9:00 AM–6:00 PM"
+segments: [] 0 items
+id: "56046c7d498e66c67551d0e3"
+▶
+inbox:
+count: 0
+items: [] 0 items
+▶
+likes:
+count: 131
+▶
+groups: [] 1 item
+▶
+0:
+count: 131
+items: [] 0 items
+type: "others"
+summary: "131 Likes"
+▶
+listed:
+count: 162
+▶
+groups: [] 1 item
+▶
+0:
+count: 162
+▶
+items: [] 4 items
+▶
+0:
+canonicalUrl: "https://foursquare.com/user/18552002/list/toronto-"
+collaborative: false
+createdAt: 1567966312
+description: "Great places for coffee and to coffice!"
+editable: false
+▶
+followers:
+count: 3
+id: "5d754468ae927b0006debe47"
+▶
+listItems:
+count: 18
+▶
+items: [] 1 item
+▶
+0:
+createdAt: 1567967329
+id: "t5dfbb4e516de6200062eca24"
+▶
+photo:
+createdAt: 1444344883
+height: 1920
+id: "5616f433498e2e02b9bf6e50"
+prefix: "https://fastly.4sqi.net/img/general/"
+suffix: "/137781961_noFYJEyMpPE2rRm28e7jqteUSZ0cXocLlM7Lvd-00Kk.jpg"
+visibility: "public"
+width: 1440
+name: "TORONTO: ☕️"
+▶
+photo:
+createdAt: 1566571087
+height: 1440
+id: "5d5ffa4f618fca00083402d1"
+prefix: "https://fastly.4sqi.net/img/general/"
+suffix: "/2746634_OO-Klc1rQxt5RfJL15RKAY1e-y8ETXQ53i2k6hUWHXM.jpg"
+visibility: "public"
+width: 1920
+public: true
+type: "others"
+updatedAt: 1577131471
+url: "/user/18552002/list/toronto-"
+▶
+user:
+countryCode: "DE"
+firstName: "Joanne"
+▶
+1:
+canonicalUrl: "https://foursquare.com/frbe_/list/francis-toronto"
+collaborative: false
+createdAt: 1476407456
+description: ""
+editable: false
+▶
+followers:
+count: 3
+id: "580030a038fa10fef822e07f"
+▶
+listItems:
+count: 70
+▶
+items: [] 1 item
+▶
+0:
+createdAt: 1476407568
+id: "v56046c7d498e66c67551d0e3"
+name: "Francis' Toronto"
+public: true
+type: "others"
+updatedAt: 1522340065
+url: "/frbe_/list/francis-toronto"
+▶
+user:
+countryCode: "CA"
+firstName: "Francis"
+lastName: "B"
+▶
+2:
+canonicalUrl: "https://foursquare.com/user/224990080/list/to-to"
+collaborative: false
+createdAt: 1470168106
+description: ""
+editable: false
+▶
+followers:
+count: 3
+id: "57a0fc2a498eb9d1c6ad2824"
+▶
+listItems:
+count: 72
+▶
+items: [] 1 item
+▶
+0:
+createdAt: 1470168995
+id: "v56046c7d498e66c67551d0e3"
+name: "TO TO"
+public: true
+type: "others"
+updatedAt: 1470504174
+url: "/user/224990080/list/to-to"
+▶
+user:
+countryCode: "CA"
+firstName: "Maxime"
+lastName: "R"
+▶
+3:
+canonicalUrl: "https://foursquare.com/burgerplex1/list/yyz"
+collaborative: false
+createdAt: 1429901300
+description: "Don’t pronounce the second “t”"
+editable: false
+▶
+followers:
+count: 3
+id: "553a8ff4498ef7364a91c3a2"
+▶
+listItems:
+count: 200
+▶
+items: [] 1 item
+▶
+0:
+createdAt: 1446236314
+id: "v56046c7d498e66c67551d0e3"
+name: "YYZ"
+▶
+photo:
+createdAt: 1388949934
+height: 640
+id: "52c9b1ae498ece9a3e1bd848"
+prefix: "https://fastly.4sqi.net/img/general/"
+suffix: "/4586462_uptS9xcS9zUli5DjNE8fHkrr43vh8dcDfCmb3Oq7W90.jpg"
+visibility: "public"
+width: 640
+public: true
+type: "others"
+updatedAt: 1621224155
+url: "/burgerplex1/list/yyz"
+▶
+user:
+countryCode: "US"
+firstName: "Ryan"
+name: "Lists from other people"
+type: "others"
+▶
+location:
+address: "102 Bloor St W"
+cc: "CA"
+city: "Toronto"
+country: "Canada"
+crossStreet: "btwn Avenue Rd & Bay St"
+▶
+formattedAddress: [] 3 items
+0: "102 Bloor St W (btwn Avenue Rd & Bay St)"
+1: "Toronto ON M5S 1M8"
+2: "Canada"
+▶
+labeledLatLngs: [] 1 item
+▶
+0:
+label: "display"
+lat: 43.66995375187845
+lng: -79.39182812626106
+lat: 43.66995375187845
+lng: -79.39182812626106
+postalCode: "M5S 1M8"
+state: "ON"
+name: "Sorry Coffee Co."
+ok: false
+▶
+pageUpdates:
+count: 0
+items: [] 0 items
+▶
+parent:
+▶
+categories: [] 1 item
+▶
+0:
+▶
+icon:
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_"
+suffix: ".png"
+id: "4bf58dd8d48988d104951735"
+name: "Boutique"
+pluralName: "Boutiques"
+primary: true
+shortName: "Boutique"
+id: "56195d92498e86b30bef7b4b"
+▶
+location:
+address: "102 Bloor St W"
+cc: "CA"
+city: "Toronto"
+country: "Canada"
+crossStreet: "btwn Avenue Rd & Bay St"
+▶
+formattedAddress: [] 3 items
+0: "102 Bloor St W (btwn Avenue Rd & Bay St)"
+1: "Toronto ON M5S 1M8"
+2: "Canada"
+▶
+labeledLatLngs: [] 1 item
+▶
+0:
+label: "display"
+lat: 43.66966971527848
+lng: -79.3916089922172
+lat: 43.66966971527848
+lng: -79.3916089922172
+postalCode: "M5S 1M8"
+state: "ON"
+name: "Kit and Ace"
+▶
+photos:
+count: 114
+▶
+groups: [] 1 item
+▶
+0:
+count: 114
+▶
+items: [] 1 item
+▶
+0:
+createdAt: 1467335211
+height: 1080
+id: "5775c22b498e0a219f71654c"
+prefix: "https://fastly.4sqi.net/img/general/"
+▶
+source:
+name: "Instagram"
+url: "http://instagram.com"
+suffix: "/511900_hzbkEAa5OquuIlyzd_ygoxL56K2d_QgXNIP2VZQAH1w.jpg"
+visibility: "public"
+width: 1080
+name: "Venue photos"
+type: "venue"
+▶
+popular:
+isLocalHoliday: false
+isOpen: false
+▶
+timeframes: [] 5 items
+▶
+0:
+▶
+1:
+▶
+2:
+▶
+3:
+▶
+4:
+▶
+price:
+currency: "$"
+message: "Cheap"
+tier: 1
+rating: 8.2
+ratingColor: "73CF42"
+ratingSignals: 188
+▶
+reasons:
+count: 1
+▶
+items: [] 1 item
+▶
+0:
+reasonName: "rawLikesReason"
+summary: "Lots of people like this place"
+type: "general"
+seasonalHours: [] 0 items
+shortUrl: "http://4sq.com/1KxRhMy"
+▶
+specials:
+count: 0
+items: [] 0 items
+▶
+stats:
+tipCount: 42
+timeZone: "America/Toronto"
+▶
+tips:
+count: 42
+▶
+groups: [] 1 item
+▶
+0:
+count: 42
+▶
+items: [] 1 item
+▶
+0:
+agreeCount: 1
+authorInteractionType: "liked"
+canonicalUrl: "https://foursquare.com/item/56590e0a38fa57a46bdaac27"
+createdAt: 1448676874
+disagreeCount: 0
+id: "56590e0a38fa57a46bdaac27"
+lang: "en"
+▶
+likes:
+count: 1
+▶
+groups: [] 1 item
+▶
+0:
+count: 1
+▶
+items: [] 1 item
+▶
+0:
+countryCode: "CA"
+firstName: "Paul"
+lastName: "S"
+type: "others"
+summary: "1 like"
+logView: true
+▶
+photo:
+createdAt: 1448676875
+height: 1440
+id: "56590e0b38fa8e21d3ebd7d9"
+prefix: "https://fastly.4sqi.net/img/general/"
+▶
+source:
+name: "Foursquare for iOS"
+url: "https://foursquare.com/download/#/iphone"
+suffix: "/2652970_64N9KNJZ6B39AvBy7izfek16jR1df-DYwN0E8At7fRo.jpg"
+visibility: "public"
+width: 1440
+photourl: "https://fastly.4sqi.net/img/general/original/2652970_64N9KNJZ6B39AvBy7izfek16jR1df-DYwN0E8At7fRo.jpg"
+text: "Overpriced but stylish."
+▶
+todo:
+count: 0
+type: "user"
+▶
+user:
+countryCode: "CA"
+firstName: "ILYA"
+lastName: "S"
+name: "All tips"
+type: "others"
+url: "http://www.sorrycoffeeco.com"
+verified: false

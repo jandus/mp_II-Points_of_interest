@@ -1,0 +1,105 @@
+-- SQLite
+select * from venues;
+
+/* Which API has better coverage */
+/*
+Radius of 1km
+area Toronto - Yorkville (lat_long: 43.6702287372475, -79.39126856350059)
+
+Yelp - 86 venues - limit of 50
+Foursquare - 
+*/
+select * from venues
+where category = '3D Printing';
+
+/* Reviews */
+select source, name, category, reviews
+from venues
+order by reviews DESC;
+
+select source as 'API', category, sum(reviews) as 'Total Reviews', sum(likes) 'Total Likes'
+from venues
+where reviews is not NULL
+group by source, category
+order by source, reviews DESC;
+
+select source as 'API',  sum(reviews) as 'Total Reviews', sum(likes) as 'Total Likes'
+from venues
+where reviews is NOT NULL
+group by source
+order by reviews DESC;
+/* Verify if there are NULL values */
+select source, rating, count()
+from venues
+where rating is NULL
+group by source, rating
+
+
+/* Ratings */
+select source as 'API' , name, category, rating
+from venues
+order by rating DESC;
+
+select source as 'API', category as 'Category', avg(rating) as 'Average Rating'
+from venues
+where rating is not Null
+group by source, category
+order by 'Average Rating' desc;
+
+
+select source as 'API', avg(rating) as 'Average Rating'
+from venues
+where rating is not Null
+group by source
+order by 'Average Rating' desc;
+
+
+select distinct source as 'API', category as 'Category'
+from venues
+where source = 'Yelp'
+order by source, category;
+
+select distinct source as 'API', category as 'Category'
+from venues
+where source = 'Foursquare'
+order by source, category;
+
+/* Top 10 */
+select name as Venue, reviews as 'Reviews'
+from venues
+where reviews is NOT NULL and source = 'Foursquare'
+order by reviews DESC
+LIMIT 10;
+
+select name as Venue, likes as 'Likes'
+from venues
+where likes is NOT NULL and source = 'Foursquare'
+order by likes DESC
+LIMIT 10;
+
+select name as Venue, rating as 'Rating'
+from venues
+where rating is NOT NULL and source = 'Foursquare'
+order by rating DESC
+LIMIT 10;
+
+/* Top 10 */
+select name as Venue, reviews as 'Reviews'
+from venues
+where reviews is NOT NULL and source = 'Yelp'
+order by reviews DESC
+LIMIT 10;
+
+select name as Venue, likes as 'Likes'
+from venues
+where likes is NOT NULL and source = 'Yelp'
+order by likes DESC
+LIMIT 10;
+
+select name as Venue, rating as 'Rating'
+from venues
+where rating is NOT NULL and source = 'Yelp'
+order by rating DESC
+LIMIT 10;
+
+
